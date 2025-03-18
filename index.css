@@ -4,11 +4,11 @@
     
 }
 
-.header1 {
+.header {
     display: flex;
     height: 60px;
     width: 100%;
-    padding: 5px 5px;
+    padding: 24px 48px;
     justify-content: space-between;
     align-items: center;
 }
@@ -22,8 +22,8 @@
 }
 
 .img1 {
-    width: 150px;
-    height: 50px;
+    width: 200px;
+    height: 80px;
 }
 
 .aling2 {
@@ -42,7 +42,7 @@
 }
 
 
-.align4 {
+.aling4 {
     height: 150px;
     width: 320px;
     margin: auto;
@@ -57,7 +57,7 @@
 }
 
 .titulo1 {
-    font-size: 16px;
+    font-size: 14px;
     color: black;
     padding-left: 14px;
     margin: auto;
@@ -65,13 +65,13 @@
     padding-right: 14px;
 }
 
-.img1 {
+.img2 {
     margin: auto;
-    height: 150px;
-    width: 320px;
+    height: 120px;
+    width: 300px;
 }
 
-.align5 {
+.aling5 {
     border: 1px solid black;
     width: 320px;
     height: 40px;
